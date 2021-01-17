@@ -6,6 +6,7 @@
         {
             Problem1.Solve();
             Problem2.Solve();
+            Problem3.Solve();
         }
     }
 }
